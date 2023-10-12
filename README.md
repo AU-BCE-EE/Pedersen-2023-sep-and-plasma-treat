@@ -34,3 +34,14 @@ R scripts for processing WT data to calculate measured NH3 and NMVOC emission.
 Data files are too large to include but scripts are still included here for partial reproducibility.
 The script `main.R` calls all others.
 
+
+
+
+# Links to published paper 
+This section give the source of tables, figures, etc. in the paper. 
+| Paper component 		|  Repo source                             |  Repo scripts             |
+|-----------------		|-----------------                         |---------------            |
+| Table MMM, NH3 data 		| output/dn22.csv                     	   | data_NH3/summary.R  	|
+| Figure LLL			| plots/flux01.pdf			| scripts-NH3/plot.R |
+| Figure KKK			| plots/surface_pH.pdf 			|scripts-pH-and-weather/plot.R |
+| Figure SAAB			| plots/abmient_temp.pdf		| scripts-pH-and-weather/plot.R |
