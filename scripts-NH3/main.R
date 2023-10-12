@@ -3,8 +3,14 @@
 rm(list = ls())
 
 source('packages.R')
+# source('functions.R')
+source('load.R')
+source('combine.R')
 
-source('NH3_22H.R')
-source('NH3_22I.R')
-source('NH3_22J.R')
-source('NH3_22K.R')
+
+# source('summary.R')
+# render('stats.Rmd', output_dir = '../output')
+# source('export.R')
+# source('export_check.R')
+# source('plot_big.R')
+# source('plot.R')
