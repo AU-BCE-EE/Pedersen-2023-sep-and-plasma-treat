@@ -45,3 +45,4 @@ This section give the source of tables, figures, etc. in the paper.
 | Figure LLL			| plots/flux01.pdf			| scripts-NH3/plot.R |
 | Figure KKK			| plots/surface_pH.pdf 			|scripts-pH-and-weather/plot.R |
 | Figure SAAB			| plots/abmient_temp.pdf		| scripts-pH-and-weather/plot.R |
+| Table SNNN			| output/ (dv.dA, dv.dB, dv.pA, dv.pB)	| scripts-NMVOC/export.R |
