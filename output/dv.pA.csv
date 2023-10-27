@@ -1,85 +1,85 @@
-"","exp","treat","compound","mass","elapsed.time","cum.mn","cum.sd"
-"1","Pig A","NEO","2,3-Butandione","m87",118,1.87,1.32
-"2","Pig A","NEO","2-Butanone","m73",118,7.74,6.58
-"3","Pig A","NEO","3-methylindole","m132",118,1.21,1.31
-"4","Pig A","NEO","4-Ethylphenol","m123",118,2.76,3.68
-"5","Pig A","NEO","4-Methylphenol","m109",118,21,35.1
-"6","Pig A","NEO","5-Methyl-2-nitrophenol","m153",118,1.08,0.583
-"7","Pig A","NEO","Acetaldehyde","m45",118,12.2,12.6
-"8","Pig A","NEO","Acetic acid","m61",118,178,304
-"9","Pig A","NEO","Acetone","m59",118,18.7,24.3
-"10","Pig A","NEO","Acetyl acetone","m101",118,2.35,1.9
-"11","Pig A","NEO","Alcohol fragment from 2- butanol","m41bu",118,6.41,9.35
-"12","Pig A","NEO","Alcohol fragment from 2-propanol","m41pro",118,11.5,16.8
-"13","Pig A","NEO","Alcohol fragment from 2-propanol","m43B",118,3.62,5.28
-"14","Pig A","NEO","Benzene","m79",118,0.898,0.57
-"15","Pig A","NEO","Butanoic acid","m89",118,28.7,44
-"16","Pig A","NEO","C5 carboxylic acid","m103",118,13.8,21.5
-"17","Pig A","NEO","Cyclohexene","m83",118,3.51,4.68
-"18","Pig A","NEO","Dimethyl sulfide","m63A",118,0.961,0.471
-"19","Pig A","NEO","Formic acid","m47",118,4.64,4.19
-"20","Pig A","NEO","Hydrogen sulfide","m35",118,53.1,23.1
-"21","Pig A","NEO","Isoprene","m69",118,4.86,6.97
-"22","Pig A","NEO","Methanol","m33",118,10.8,7.7
-"23","Pig A","NEO","Methanthiol","m49",118,0.442,0.0548
-"24","Pig A","NEO","Phenol","m95",118,5.47,8.11
-"25","Pig A","NEO","Propionic acid","m75",118,71.8,111
-"26","Pig A","NEO","Trimethylamine","m60",118,0.818,0.792
-"27","Pig A","NEO","Unknown","m115",118,0.812,0.449
-"28","Pig A","NEO","Unknown","m135",118,0.329,0.54
-"29","Pig A","Raw","2,3-Butandione","m87",118,1.1,0.77
-"30","Pig A","Raw","2-Butanone","m73",118,1.61,2.48
-"31","Pig A","Raw","3-methylindole","m132",118,0.471,0.28
-"32","Pig A","Raw","4-Ethylphenol","m123",118,0.51,0.636
-"33","Pig A","Raw","4-Methylphenol","m109",118,0.216,0.305
-"34","Pig A","Raw","5-Methyl-2-nitrophenol","m153",118,1.13,1.13
-"35","Pig A","Raw","Acetaldehyde","m45",118,9.18,12.7
-"36","Pig A","Raw","Acetic acid","m61",118,62.1,102
-"37","Pig A","Raw","Acetone","m59",118,26.2,38.9
-"38","Pig A","Raw","Acetyl acetone","m101",118,1.36,1.12
-"39","Pig A","Raw","Alcohol fragment from 2- butanol","m41bu",118,3.61,6.1
-"40","Pig A","Raw","Alcohol fragment from 2-propanol","m41pro",118,6.49,11
-"41","Pig A","Raw","Alcohol fragment from 2-propanol","m43B",118,2.04,3.45
-"42","Pig A","Raw","Benzene","m79",118,0.567,0.298
-"43","Pig A","Raw","Butanoic acid","m89",118,16.9,28.9
-"44","Pig A","Raw","C5 carboxylic acid","m103",118,6.55,11.1
-"45","Pig A","Raw","Cyclohexene","m83",118,0.622,0.963
-"46","Pig A","Raw","Dimethyl sulfide","m63A",118,0.965,0.391
-"47","Pig A","Raw","Formic acid","m47",118,3.81,2.61
-"48","Pig A","Raw","Hydrogen sulfide","m35",118,42.7,6.04
-"49","Pig A","Raw","Isoprene","m69",118,1.01,1.69
-"50","Pig A","Raw","Methanol","m33",118,8.97,4.88
-"51","Pig A","Raw","Methanthiol","m49",118,0.462,0.133
-"52","Pig A","Raw","Phenol","m95",118,0.47,0.776
-"53","Pig A","Raw","Propionic acid","m75",118,41.1,71
-"54","Pig A","Raw","Trimethylamine","m60",118,0.954,1.12
-"55","Pig A","Raw","Unknown","m115",118,0.745,0.497
-"56","Pig A","Raw","Unknown","m135",118,3.25,5.45
-"57","Pig A","Separated","2,3-Butandione","m87",118,1.66,1.21
-"58","Pig A","Separated","2-Butanone","m73",118,5.95,4.65
-"59","Pig A","Separated","3-methylindole","m132",118,1.66,0.856
-"60","Pig A","Separated","4-Ethylphenol","m123",118,1.29,0.988
-"61","Pig A","Separated","4-Methylphenol","m109",118,29.1,25.3
-"62","Pig A","Separated","5-Methyl-2-nitrophenol","m153",118,0.415,0.23
-"63","Pig A","Separated","Acetaldehyde","m45",118,16.7,12.6
-"64","Pig A","Separated","Acetic acid","m61",118,267,227
-"65","Pig A","Separated","Acetone","m59",118,42.7,37.6
-"66","Pig A","Separated","Acetyl acetone","m101",118,1.97,0.655
-"67","Pig A","Separated","Alcohol fragment from 2- butanol","m41bu",118,4.33,4.17
-"68","Pig A","Separated","Alcohol fragment from 2-propanol","m41pro",118,7.77,7.48
-"69","Pig A","Separated","Alcohol fragment from 2-propanol","m43B",118,2.45,2.35
-"70","Pig A","Separated","Benzene","m79",118,0.7,0.39
-"71","Pig A","Separated","Butanoic acid","m89",118,41.9,36.1
-"72","Pig A","Separated","C5 carboxylic acid","m103",118,15.6,13.7
-"73","Pig A","Separated","Cyclohexene","m83",118,0.384,0.259
-"74","Pig A","Separated","Dimethyl sulfide","m63A",118,1.21,0.533
-"75","Pig A","Separated","Formic acid","m47",118,5.44,1.83
-"76","Pig A","Separated","Hydrogen sulfide","m35",118,66.4,17.2
-"77","Pig A","Separated","Isoprene","m69",118,0.922,0.662
-"78","Pig A","Separated","Methanol","m33",118,13.8,7.09
-"79","Pig A","Separated","Methanthiol","m49",118,0.337,0.0597
-"80","Pig A","Separated","Phenol","m95",118,3.9,3.25
-"81","Pig A","Separated","Propionic acid","m75",118,74,66.7
-"82","Pig A","Separated","Trimethylamine","m60",118,1.68,1.13
-"83","Pig A","Separated","Unknown","m115",118,0.853,0.207
-"84","Pig A","Separated","Unknown","m135",118,0.155,0.0778
+"","exp","elapsed.time","treat","compound","cum"
+"1","Pig A",118,"NEO","2,3-Butandione","1.87  ±  1.32"
+"2","Pig A",118,"NEO","2-Butanone","7.74  ±  6.58"
+"3","Pig A",118,"NEO","3-methylindole","1.21  ±  1.31"
+"4","Pig A",118,"NEO","4-Ethylphenol","2.76  ±  3.68"
+"5","Pig A",118,"NEO","4-Methylphenol","21  ±  35.1"
+"6","Pig A",118,"NEO","5-Methyl-2-nitrophenol","1.08  ±  0.583"
+"7","Pig A",118,"NEO","Acetaldehyde","12.2  ±  12.6"
+"8","Pig A",118,"NEO","Acetic acid","178  ±  304"
+"9","Pig A",118,"NEO","Acetone","18.7  ±  24.3"
+"10","Pig A",118,"NEO","Acetyl acetone","2.35  ±  1.9"
+"11","Pig A",118,"NEO","Alcohol fragment from 2- butanol","6.41  ±  9.35"
+"12","Pig A",118,"NEO","Alcohol fragment from 2-propanol","11.5  ±  16.8"
+"13","Pig A",118,"NEO","Alcohol fragment from 2-propanol","3.62  ±  5.28"
+"14","Pig A",118,"NEO","Benzene","0.898  ±  0.57"
+"15","Pig A",118,"NEO","Butanoic acid","28.7  ±  44"
+"16","Pig A",118,"NEO","C5 carboxylic acid","13.8  ±  21.5"
+"17","Pig A",118,"NEO","Cyclohexene","3.51  ±  4.68"
+"18","Pig A",118,"NEO","Dimethyl sulfide","0.961  ±  0.471"
+"19","Pig A",118,"NEO","Formic acid","4.64  ±  4.19"
+"20","Pig A",118,"NEO","Hydrogen sulfide","53.1  ±  23.1"
+"21","Pig A",118,"NEO","Isoprene","4.86  ±  6.97"
+"22","Pig A",118,"NEO","Methanol","10.8  ±  7.7"
+"23","Pig A",118,"NEO","Methanthiol","0.442  ±  0.0548"
+"24","Pig A",118,"NEO","Phenol","5.47  ±  8.11"
+"25","Pig A",118,"NEO","Propionic acid","71.8  ±  111"
+"26","Pig A",118,"NEO","Trimethylamine","0.818  ±  0.792"
+"27","Pig A",118,"NEO","Unknown A","0.812  ±  0.449"
+"28","Pig A",118,"NEO","Unknown B","0.329  ±  0.54"
+"29","Pig A",118,"Raw","2,3-Butandione","1.1  ±  0.77"
+"30","Pig A",118,"Raw","2-Butanone","1.61  ±  2.48"
+"31","Pig A",118,"Raw","3-methylindole","0.471  ±  0.28"
+"32","Pig A",118,"Raw","4-Ethylphenol","0.51  ±  0.636"
+"33","Pig A",118,"Raw","4-Methylphenol","0.216  ±  0.305"
+"34","Pig A",118,"Raw","5-Methyl-2-nitrophenol","1.13  ±  1.13"
+"35","Pig A",118,"Raw","Acetaldehyde","9.18  ±  12.7"
+"36","Pig A",118,"Raw","Acetic acid","62.1  ±  102"
+"37","Pig A",118,"Raw","Acetone","26.2  ±  38.9"
+"38","Pig A",118,"Raw","Acetyl acetone","1.36  ±  1.12"
+"39","Pig A",118,"Raw","Alcohol fragment from 2- butanol","3.61  ±  6.1"
+"40","Pig A",118,"Raw","Alcohol fragment from 2-propanol","6.49  ±  11"
+"41","Pig A",118,"Raw","Alcohol fragment from 2-propanol","2.04  ±  3.45"
+"42","Pig A",118,"Raw","Benzene","0.567  ±  0.298"
+"43","Pig A",118,"Raw","Butanoic acid","16.9  ±  28.9"
+"44","Pig A",118,"Raw","C5 carboxylic acid","6.55  ±  11.1"
+"45","Pig A",118,"Raw","Cyclohexene","0.622  ±  0.963"
+"46","Pig A",118,"Raw","Dimethyl sulfide","0.965  ±  0.391"
+"47","Pig A",118,"Raw","Formic acid","3.81  ±  2.61"
+"48","Pig A",118,"Raw","Hydrogen sulfide","42.7  ±  6.04"
+"49","Pig A",118,"Raw","Isoprene","1.01  ±  1.69"
+"50","Pig A",118,"Raw","Methanol","8.97  ±  4.88"
+"51","Pig A",118,"Raw","Methanthiol","0.462  ±  0.133"
+"52","Pig A",118,"Raw","Phenol","0.47  ±  0.776"
+"53","Pig A",118,"Raw","Propionic acid","41.1  ±  71"
+"54","Pig A",118,"Raw","Trimethylamine","0.954  ±  1.12"
+"55","Pig A",118,"Raw","Unknown A","0.745  ±  0.497"
+"56","Pig A",118,"Raw","Unknown B","3.25  ±  5.45"
+"57","Pig A",118,"Separated","2,3-Butandione","1.66  ±  1.21"
+"58","Pig A",118,"Separated","2-Butanone","5.95  ±  4.65"
+"59","Pig A",118,"Separated","3-methylindole","1.66  ±  0.856"
+"60","Pig A",118,"Separated","4-Ethylphenol","1.29  ±  0.988"
+"61","Pig A",118,"Separated","4-Methylphenol","29.1  ±  25.3"
+"62","Pig A",118,"Separated","5-Methyl-2-nitrophenol","0.415  ±  0.23"
+"63","Pig A",118,"Separated","Acetaldehyde","16.7  ±  12.6"
+"64","Pig A",118,"Separated","Acetic acid","267  ±  227"
+"65","Pig A",118,"Separated","Acetone","42.7  ±  37.6"
+"66","Pig A",118,"Separated","Acetyl acetone","1.97  ±  0.655"
+"67","Pig A",118,"Separated","Alcohol fragment from 2- butanol","4.33  ±  4.17"
+"68","Pig A",118,"Separated","Alcohol fragment from 2-propanol","7.77  ±  7.48"
+"69","Pig A",118,"Separated","Alcohol fragment from 2-propanol","2.45  ±  2.35"
+"70","Pig A",118,"Separated","Benzene","0.7  ±  0.39"
+"71","Pig A",118,"Separated","Butanoic acid","41.9  ±  36.1"
+"72","Pig A",118,"Separated","C5 carboxylic acid","15.6  ±  13.7"
+"73","Pig A",118,"Separated","Cyclohexene","0.384  ±  0.259"
+"74","Pig A",118,"Separated","Dimethyl sulfide","1.21  ±  0.533"
+"75","Pig A",118,"Separated","Formic acid","5.44  ±  1.83"
+"76","Pig A",118,"Separated","Hydrogen sulfide","66.4  ±  17.2"
+"77","Pig A",118,"Separated","Isoprene","0.922  ±  0.662"
+"78","Pig A",118,"Separated","Methanol","13.8  ±  7.09"
+"79","Pig A",118,"Separated","Methanthiol","0.337  ±  0.0597"
+"80","Pig A",118,"Separated","Phenol","3.9  ±  3.25"
+"81","Pig A",118,"Separated","Propionic acid","74  ±  66.7"
+"82","Pig A",118,"Separated","Trimethylamine","1.68  ±  1.13"
+"83","Pig A",118,"Separated","Unknown A","0.853  ±  0.207"
+"84","Pig A",118,"Separated","Unknown B","0.155  ±  0.0778"

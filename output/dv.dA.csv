@@ -1,85 +1,85 @@
-"","exp","treat","compound","mass","elapsed.time","cum.mn","cum.sd"
-"1","Digestate A","NEO","2,3-Butandione","m87",161,1.73,0.242
-"2","Digestate A","NEO","2-Butanone","m73",161,1.09,0.407
-"3","Digestate A","NEO","3-methylindole","m132",161,0.983,0.129
-"4","Digestate A","NEO","4-Ethylphenol","m123",161,0.877,0.114
-"5","Digestate A","NEO","4-Methylphenol","m109",161,0.233,0.0666
-"6","Digestate A","NEO","5-Methyl-2-nitrophenol","m153",161,1.5,0.506
-"7","Digestate A","NEO","Acetaldehyde","m45",161,5.78,0.72
-"8","Digestate A","NEO","Acetic acid","m61",161,7.41,1.01
-"9","Digestate A","NEO","Acetone","m59",161,21.4,13
-"10","Digestate A","NEO","Acetyl acetone","m101",161,2.51,1.82
-"11","Digestate A","NEO","Alcohol fragment from 2- butanol","m41bu",161,0.603,0.481
-"12","Digestate A","NEO","Alcohol fragment from 2-propanol","m41pro",161,1.08,0.863
-"13","Digestate A","NEO","Alcohol fragment from 2-propanol","m43B",161,0.341,0.272
-"14","Digestate A","NEO","Benzene","m79",161,0.868,0.17
-"15","Digestate A","NEO","Butanoic acid","m89",161,1.24,1.04
-"16","Digestate A","NEO","C5 carboxylic acid","m103",161,2.12,1.33
-"17","Digestate A","NEO","Cyclohexene","m83",161,1,0.707
-"18","Digestate A","NEO","Dimethyl sulfide","m63A",161,0.884,0.249
-"19","Digestate A","NEO","Formic acid","m47",161,4.09,1.8
-"20","Digestate A","NEO","Hydrogen sulfide","m35",161,102,17.3
-"21","Digestate A","NEO","Isoprene","m69",161,0.68,0.424
-"22","Digestate A","NEO","Methanol","m33",161,5.87,0.237
-"23","Digestate A","NEO","Methanthiol","m49",161,0.766,0.234
-"24","Digestate A","NEO","Phenol","m95",161,0.702,0.354
-"25","Digestate A","NEO","Propionic acid","m75",161,2.26,2.32
-"26","Digestate A","NEO","Trimethylamine","m60",161,1.4,0.345
-"27","Digestate A","NEO","Unknown","m115",161,1.51,0.373
-"28","Digestate A","NEO","Unknown","m135",161,0.087,0.0806
-"29","Digestate A","Raw","2,3-Butandione","m87",161,2.22,0.229
-"30","Digestate A","Raw","2-Butanone","m73",161,1.8,1.57
-"31","Digestate A","Raw","3-methylindole","m132",161,1.19,0.36
-"32","Digestate A","Raw","4-Ethylphenol","m123",161,1.49,0.648
-"33","Digestate A","Raw","4-Methylphenol","m109",161,1.16,0.741
-"34","Digestate A","Raw","5-Methyl-2-nitrophenol","m153",161,2.03,1.17
-"35","Digestate A","Raw","Acetaldehyde","m45",161,19.4,21.3
-"36","Digestate A","Raw","Acetic acid","m61",161,16.1,8.85
-"37","Digestate A","Raw","Acetone","m59",161,94,122
-"38","Digestate A","Raw","Acetyl acetone","m101",161,1.76,0.428
-"39","Digestate A","Raw","Alcohol fragment from 2- butanol","m41bu",161,5.23,5.1
-"40","Digestate A","Raw","Alcohol fragment from 2-propanol","m41pro",161,9.39,9.17
-"41","Digestate A","Raw","Alcohol fragment from 2-propanol","m43B",161,2.96,2.89
-"42","Digestate A","Raw","Benzene","m79",161,0.896,0.198
-"43","Digestate A","Raw","Butanoic acid","m89",161,9.35,8.71
-"44","Digestate A","Raw","C5 carboxylic acid","m103",161,7.88,6.38
-"45","Digestate A","Raw","Cyclohexene","m83",161,2.28,1.66
-"46","Digestate A","Raw","Dimethyl sulfide","m63A",161,1.4,0.53
-"47","Digestate A","Raw","Formic acid","m47",161,6.33,2.44
-"48","Digestate A","Raw","Hydrogen sulfide","m35",161,101,11.1
-"49","Digestate A","Raw","Isoprene","m69",161,2.49,1.97
-"50","Digestate A","Raw","Methanol","m33",161,60.4,89.8
-"51","Digestate A","Raw","Methanthiol","m49",161,0.732,0.136
-"52","Digestate A","Raw","Phenol","m95",161,1.47,0.918
-"53","Digestate A","Raw","Propionic acid","m75",161,40.9,39.6
-"54","Digestate A","Raw","Trimethylamine","m60",161,2.76,2.14
-"55","Digestate A","Raw","Unknown","m115",161,1.96,1.01
-"56","Digestate A","Raw","Unknown","m135",161,0.914,0.823
-"57","Digestate A","Separated","2,3-Butandione","m87",161,2.22,0.125
-"58","Digestate A","Separated","2-Butanone","m73",161,4.02,1.75
-"59","Digestate A","Separated","3-methylindole","m132",161,0.91,0.0243
-"60","Digestate A","Separated","4-Ethylphenol","m123",161,1.33,0.222
-"61","Digestate A","Separated","4-Methylphenol","m109",161,0.876,0.269
-"62","Digestate A","Separated","5-Methyl-2-nitrophenol","m153",161,2.56,0.632
-"63","Digestate A","Separated","Acetaldehyde","m45",161,17,18.3
-"64","Digestate A","Separated","Acetic acid","m61",161,13.4,12.1
-"65","Digestate A","Separated","Acetone","m59",161,87.8,136
-"66","Digestate A","Separated","Acetyl acetone","m101",161,2,0.222
-"67","Digestate A","Separated","Alcohol fragment from 2- butanol","m41bu",161,3.6,3.02
-"68","Digestate A","Separated","Alcohol fragment from 2-propanol","m41pro",161,6.46,5.43
-"69","Digestate A","Separated","Alcohol fragment from 2-propanol","m43B",161,2.03,1.71
-"70","Digestate A","Separated","Benzene","m79",161,0.972,0.109
-"71","Digestate A","Separated","Butanoic acid","m89",161,7.1,4.9
-"72","Digestate A","Separated","C5 carboxylic acid","m103",161,5.97,4.14
-"73","Digestate A","Separated","Cyclohexene","m83",161,2.26,0.283
-"74","Digestate A","Separated","Dimethyl sulfide","m63A",161,1.52,0.366
-"75","Digestate A","Separated","Formic acid","m47",161,4.57,1.02
-"76","Digestate A","Separated","Hydrogen sulfide","m35",161,125,13.1
-"77","Digestate A","Separated","Isoprene","m69",161,2.36,0.989
-"78","Digestate A","Separated","Methanol","m33",161,68.9,47.6
-"79","Digestate A","Separated","Methanthiol","m49",161,0.632,0.133
-"80","Digestate A","Separated","Phenol","m95",161,1.33,0.445
-"81","Digestate A","Separated","Propionic acid","m75",161,29.1,25.7
-"82","Digestate A","Separated","Trimethylamine","m60",161,2.79,2.12
-"83","Digestate A","Separated","Unknown","m115",161,2.04,0.87
-"84","Digestate A","Separated","Unknown","m135",161,0.9,0.587
+"","exp","elapsed.time","treat","compound","cum"
+"1","Digestate A",161,"NEO","2,3-Butandione","1.73  ±  0.242"
+"2","Digestate A",161,"NEO","2-Butanone","1.09  ±  0.407"
+"3","Digestate A",161,"NEO","3-methylindole","0.983  ±  0.129"
+"4","Digestate A",161,"NEO","4-Ethylphenol","0.877  ±  0.114"
+"5","Digestate A",161,"NEO","4-Methylphenol","0.233  ±  0.0666"
+"6","Digestate A",161,"NEO","5-Methyl-2-nitrophenol","1.5  ±  0.506"
+"7","Digestate A",161,"NEO","Acetaldehyde","5.78  ±  0.72"
+"8","Digestate A",161,"NEO","Acetic acid","7.41  ±  1.01"
+"9","Digestate A",161,"NEO","Acetone","21.4  ±  13"
+"10","Digestate A",161,"NEO","Acetyl acetone","2.51  ±  1.82"
+"11","Digestate A",161,"NEO","Alcohol fragment from 2- butanol","0.603  ±  0.481"
+"12","Digestate A",161,"NEO","Alcohol fragment from 2-propanol","1.08  ±  0.863"
+"13","Digestate A",161,"NEO","Alcohol fragment from 2-propanol","0.341  ±  0.272"
+"14","Digestate A",161,"NEO","Benzene","0.868  ±  0.17"
+"15","Digestate A",161,"NEO","Butanoic acid","1.24  ±  1.04"
+"16","Digestate A",161,"NEO","C5 carboxylic acid","2.12  ±  1.33"
+"17","Digestate A",161,"NEO","Cyclohexene","1  ±  0.707"
+"18","Digestate A",161,"NEO","Dimethyl sulfide","0.884  ±  0.249"
+"19","Digestate A",161,"NEO","Formic acid","4.09  ±  1.8"
+"20","Digestate A",161,"NEO","Hydrogen sulfide","102  ±  17.3"
+"21","Digestate A",161,"NEO","Isoprene","0.68  ±  0.424"
+"22","Digestate A",161,"NEO","Methanol","5.87  ±  0.237"
+"23","Digestate A",161,"NEO","Methanthiol","0.766  ±  0.234"
+"24","Digestate A",161,"NEO","Phenol","0.702  ±  0.354"
+"25","Digestate A",161,"NEO","Propionic acid","2.26  ±  2.32"
+"26","Digestate A",161,"NEO","Trimethylamine","1.4  ±  0.345"
+"27","Digestate A",161,"NEO","Unknown A","1.51  ±  0.373"
+"28","Digestate A",161,"NEO","Unknown B","0.087  ±  0.0806"
+"29","Digestate A",161,"Raw","2,3-Butandione","2.22  ±  0.229"
+"30","Digestate A",161,"Raw","2-Butanone","1.8  ±  1.57"
+"31","Digestate A",161,"Raw","3-methylindole","1.19  ±  0.36"
+"32","Digestate A",161,"Raw","4-Ethylphenol","1.49  ±  0.648"
+"33","Digestate A",161,"Raw","4-Methylphenol","1.16  ±  0.741"
+"34","Digestate A",161,"Raw","5-Methyl-2-nitrophenol","2.03  ±  1.17"
+"35","Digestate A",161,"Raw","Acetaldehyde","19.4  ±  21.3"
+"36","Digestate A",161,"Raw","Acetic acid","16.1  ±  8.85"
+"37","Digestate A",161,"Raw","Acetone","94  ±  122"
+"38","Digestate A",161,"Raw","Acetyl acetone","1.76  ±  0.428"
+"39","Digestate A",161,"Raw","Alcohol fragment from 2- butanol","5.23  ±  5.1"
+"40","Digestate A",161,"Raw","Alcohol fragment from 2-propanol","9.39  ±  9.17"
+"41","Digestate A",161,"Raw","Alcohol fragment from 2-propanol","2.96  ±  2.89"
+"42","Digestate A",161,"Raw","Benzene","0.896  ±  0.198"
+"43","Digestate A",161,"Raw","Butanoic acid","9.35  ±  8.71"
+"44","Digestate A",161,"Raw","C5 carboxylic acid","7.88  ±  6.38"
+"45","Digestate A",161,"Raw","Cyclohexene","2.28  ±  1.66"
+"46","Digestate A",161,"Raw","Dimethyl sulfide","1.4  ±  0.53"
+"47","Digestate A",161,"Raw","Formic acid","6.33  ±  2.44"
+"48","Digestate A",161,"Raw","Hydrogen sulfide","101  ±  11.1"
+"49","Digestate A",161,"Raw","Isoprene","2.49  ±  1.97"
+"50","Digestate A",161,"Raw","Methanol","60.4  ±  89.8"
+"51","Digestate A",161,"Raw","Methanthiol","0.732  ±  0.136"
+"52","Digestate A",161,"Raw","Phenol","1.47  ±  0.918"
+"53","Digestate A",161,"Raw","Propionic acid","40.9  ±  39.6"
+"54","Digestate A",161,"Raw","Trimethylamine","2.76  ±  2.14"
+"55","Digestate A",161,"Raw","Unknown A","1.96  ±  1.01"
+"56","Digestate A",161,"Raw","Unknown B","0.914  ±  0.823"
+"57","Digestate A",161,"Separated","2,3-Butandione","2.22  ±  0.125"
+"58","Digestate A",161,"Separated","2-Butanone","4.02  ±  1.75"
+"59","Digestate A",161,"Separated","3-methylindole","0.91  ±  0.0243"
+"60","Digestate A",161,"Separated","4-Ethylphenol","1.33  ±  0.222"
+"61","Digestate A",161,"Separated","4-Methylphenol","0.876  ±  0.269"
+"62","Digestate A",161,"Separated","5-Methyl-2-nitrophenol","2.56  ±  0.632"
+"63","Digestate A",161,"Separated","Acetaldehyde","17  ±  18.3"
+"64","Digestate A",161,"Separated","Acetic acid","13.4  ±  12.1"
+"65","Digestate A",161,"Separated","Acetone","87.8  ±  136"
+"66","Digestate A",161,"Separated","Acetyl acetone","2  ±  0.222"
+"67","Digestate A",161,"Separated","Alcohol fragment from 2- butanol","3.6  ±  3.02"
+"68","Digestate A",161,"Separated","Alcohol fragment from 2-propanol","6.46  ±  5.43"
+"69","Digestate A",161,"Separated","Alcohol fragment from 2-propanol","2.03  ±  1.71"
+"70","Digestate A",161,"Separated","Benzene","0.972  ±  0.109"
+"71","Digestate A",161,"Separated","Butanoic acid","7.1  ±  4.9"
+"72","Digestate A",161,"Separated","C5 carboxylic acid","5.97  ±  4.14"
+"73","Digestate A",161,"Separated","Cyclohexene","2.26  ±  0.283"
+"74","Digestate A",161,"Separated","Dimethyl sulfide","1.52  ±  0.366"
+"75","Digestate A",161,"Separated","Formic acid","4.57  ±  1.02"
+"76","Digestate A",161,"Separated","Hydrogen sulfide","125  ±  13.1"
+"77","Digestate A",161,"Separated","Isoprene","2.36  ±  0.989"
+"78","Digestate A",161,"Separated","Methanol","68.9  ±  47.6"
+"79","Digestate A",161,"Separated","Methanthiol","0.632  ±  0.133"
+"80","Digestate A",161,"Separated","Phenol","1.33  ±  0.445"
+"81","Digestate A",161,"Separated","Propionic acid","29.1  ±  25.7"
+"82","Digestate A",161,"Separated","Trimethylamine","2.79  ±  2.12"
+"83","Digestate A",161,"Separated","Unknown A","2.04  ±  0.87"
+"84","Digestate A",161,"Separated","Unknown B","0.9  ±  0.587"

@@ -1,11 +1,6 @@
-
 # dataframe for supporting with cumulative mass of each compund for each treatment x trial combo
 # copying dataframe so we have all digests for further calculations
 dv.summ1 <- dv.summ
-
-# from (g m-2) to (mg m-2)
-dv.summ1$cum.mn <- dv.summ1$cum.mn * 1000
-dv.summ1$cum.sd <- dv.summ1$cum.sd * 1000
 
 dv.summ1 <- rounddf(dv.summ1, 3, fun = signif)
 
