@@ -19,11 +19,15 @@ dv.summ$flux.mn <- dv.summ$flux.mn * 1000
 dv.summ$flux.sd <- dv.summ$flux.sd * 1000
 
 
-# calculating OAV over time 
-# OTV: odor threshold value (ppb)
-# conc.corr: background corrected concentration (ppb) 
+# how many datapoints are below 1 * sd
+dv.summ$test <- dv.summ$flux.mn - dv.summ$flux.sd
+dv.summ$test[dv.summ$test <= 0] <- 0 
 
-############################# WORK FROM HERE 
-#############################
-#############################
-# dv$oav <- dv$conc.corr / dv$OTV
+( nrow(dv.summ) - nrow(dv.summ[dv.summ$test == 0, ]) ) /nrow(dv.summ) * 100
+
+
+# how many datapoints are below 3 * sd
+dv.summ$test <- dv.summ$flux.mn - (3 * dv.summ$flux.sd ) 
+dv.summ$test[dv.summ$test <= 0] <- 0 
+
+( nrow(dv.summ) - nrow(dv.summ[dv.summ$test == 0, ]) ) /nrow(dv.summ) * 100
