@@ -26,4 +26,4 @@ dv.summ$flux.sd <- dv.summ$flux.sd * 1000
 ############################# WORK FROM HERE 
 #############################
 #############################
-dv$oav <- dv$conc.corr / dv$OTV
+# dv$oav <- dv$conc.corr / dv$OTV
