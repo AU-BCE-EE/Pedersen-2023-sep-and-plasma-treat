@@ -25,8 +25,12 @@ However all resulting emission measurements can be found in `data-NH3` and 'data
 
 # Directory structure
 
-## `data-NH3` and 'data-NMVOC'
-Measurement data in `data` subdirectory.
+## `data-NH3` 
+Measurement data, flux of measured NH3 from each individual dynamic flux chamber over time. 
+Results of statistical analysis (231218-NEO-NH3).
+
+## 'data-NMVOC'
+Measurement data, flux of each individual measured NMVOC from each individual dynamic flux chamber over time. 
 
 
 ## 'scripts-WT' 
@@ -41,7 +45,7 @@ The script `main.R` calls all others.
 This section give the source of tables, figures, etc. in the paper. 
 | Paper component 		|  Repo source                             |  Repo scripts             |
 |-----------------		|-----------------                         |---------------            |
-| Table MMM, NH3 data 		| output/dn22.csv                     	   | data_NH3/summary.R  	|
+| Table MMM, NH3 data 		| output/dn22.csv   and data-NH3/231218-NEO-NH3   | data_NH3/summary.R  	|
 | Figure LLL			| plots/flux01.pdf			| scripts-NH3/plot.R |
 | Figure KKK			| plots/surface_pH.pdf 			|scripts-pH-and-weather/plot.R |
 | Figure SAAB			| plots/abmient_temp.pdf		| scripts-pH-and-weather/plot.R |
