@@ -39,7 +39,7 @@ Data files are too large to include but scripts are still included here for part
 The script `main.R` calls all others.
 
 ## 'scripts-ESA'
-MatLab scripts for processing ESA data. 
+MatLab script for processing ESA data, example provided. Raw data (images) not provided as they are too large. 
 Results of statistical analysis of ESA data (ESA_231218.xlsx). 
 
 
