@@ -25,13 +25,16 @@ However all resulting emission measurements can be found in `data-NH3` and 'data
 
 # Directory structure
 
+## 'data-ESA'
+ESA results after imaging analysis (ESAdata.csv). 
+Results of statistical analysis of ESA data (ESA_231218.xlsx). 
+
 ## `data-NH3` 
 Measurement data, flux of measured NH3 from each individual dynamic flux chamber over time. 
 Results of statistical analysis (231218-NEO-NH3.xlsx).
 
 ## 'data-NMVOC'
 Measurement data, flux of each individual measured NMVOC from each individual dynamic flux chamber over time. 
-
 
 ## 'scripts-WT' 
 R scripts for processing WT data to calculate measured NH3 and NMVOC emission. 
@@ -40,7 +43,7 @@ The script `main.R` calls all others.
 
 ## 'scripts-ESA'
 MatLab script for processing ESA data, example provided. Raw data (images) not provided as they are too large. 
-Results of statistical analysis of ESA data (ESA_231218.xlsx). 
+R scripts for producing ESA plot, where the script 'main.R' calls all others. 
 
 
 # Links to published paper 
