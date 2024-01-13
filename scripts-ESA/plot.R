@@ -1,5 +1,4 @@
 
-
 # ESA over time
 ggplot(dfsumm, aes(time, ESA.mn, color = treat, fill = treat)) + 
   geom_point(size = 0.5) + geom_line(aes(group = treat)) +
