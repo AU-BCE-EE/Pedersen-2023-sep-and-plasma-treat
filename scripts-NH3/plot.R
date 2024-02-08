@@ -1,4 +1,8 @@
 
+dn3$treat <- sub('NEO', 'LP', dn3$treat)
+dn3$treat <- sub('Raw', 'UN', dn3$treat)
+dn3$treat <- sub('Separated', 'LF', dn3$treat)
+
 
 # N flux over time
 ggplot(dn3, aes(elapsed.time, flux.mn.perc, color = treat, fill = treat)) + 
