@@ -1,6 +1,10 @@
 
 # surface pH
 
+dp.summ$treat <- sub('NEO', 'LP', dp.summ$treat)
+dp.summ$treat <- sub('Raw', 'UN', dp.summ$treat)
+dp.summ$treat <- sub('Separated', 'LF', dp.summ$treat)
+
 ggplot(dp.summ, aes(elapsed.time, pH.mn, color = treat, fill = treat)) + 
   scale_color_brewer(palette = "Set1") + 
   scale_fill_brewer(palette = 'Set1') +
