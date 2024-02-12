@@ -78,12 +78,12 @@ This section give the source of tables, figures, etc. in the paper.
 | Figure SWWW			| plots/flux01.pdf				| scripts-NH3/plot.R		|
 | Figure KKK			| plots/surface_pH.pdf 				|scripts-pH-and-weather/plot.R 	|
 | Figure SAAB			| plots/abmient_temp.pdf			| scripts-pH-and-weather/plot.R |
-| Table AAA			| data/w*** (weather data)			| NA				|
+| Table AAA			| data/w*** (weather data)			| 				|
 | Table SNNN			| output/ (dv.**)				| scripts-NMVOC/export.R	|
-| Table WWW			| data-ESA/ESA_231218				| NA	 			|
-| Table CCC			| data/slurry.summ				| NA				|
+| Table WWW			| data-ESA/ESA_231218				| 	 			|
+| Table CCC			| data/slurry.summ				| 				|
 | Figure OOO			| slurry/ESA01					| scipts-ESA/plot.R		|
-| Table SDDD			| data/slurry.summ				| NA				|
+| Table SDDD			| data/slurry.summ				| 				|
 	
 
 
