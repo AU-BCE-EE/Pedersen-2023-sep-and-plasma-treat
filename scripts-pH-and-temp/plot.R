@@ -10,7 +10,7 @@ ggplot(dp.summ, aes(elapsed.time, pH.mn, color = treat, fill = treat)) +
   scale_fill_brewer(palette = 'Set1') +
   geom_point() + 
   geom_line() + 
-  geom_ribbon (aes (ymax = pH.mn + pH.sd, ymin = pH.mn - pH.sd, group = treat), alpha = 0.1, color = NA) +
+  geom_ribbon (aes (ymax = pH.mn + pH.sd, ymin = pH.mn - pH.sd, group = treat), alpha = 0.3, color = NA) +
   facet_grid( ~ exp) + 
   theme_bw() + 
   ylab('pH') + xlab('Time from application (h)') + 
