@@ -33,7 +33,9 @@ ESA results after imaging analysis (ESAdata.csv).
 Results of statistical analysis of ESA data (ESA_231218.xlsx). 
 
 ## `data-NH3` 
-Measurement data, flux of measured NH3 from each individual dynamic flux chamber over time. 
+Measurement data, flux of measured NH3 from each individual dynamic flux chamber over time downloaded from the ALFAM2 database. 
+
+## 'data-stat-NH3'
 Results of statistical analysis (231218-NEO-NH3.xlsx).
 
 ## `data-VOC`
