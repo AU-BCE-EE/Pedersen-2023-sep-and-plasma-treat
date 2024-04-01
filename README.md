@@ -73,17 +73,16 @@ The script `main.R` calls all others.
 This section give the source of tables, figures, etc. in the paper. 
 | Paper component 		|  Repo source                          	   |  Repo scripts             	|
 |-----------------		|-----------------                         	   |---------------            	|
-| Table MMM			| output/dn22.csv   and data-NH3/231218-NEO-NH3   | data_NH3/summary.R  	|
-| Figure LLL			| plots/flux02.pdf				| scripts-NH3/plot.R 		|
-| Figure SWWW			| plots/flux01.pdf				| scripts-NH3/plot.R		|
-| Figure KKK			| plots/surface_pH.pdf 				|scripts-pH-and-weather/plot.R 	|
-| Figure SAAB			| plots/abmient_temp.pdf			| scripts-pH-and-weather/plot.R |
-| Table AAA			| data/w*** (weather data)			| 				|
-| Table SNNN			| output/ (dv.**)				| scripts-NMVOC/export.R	|
-| Table WWW			| data-ESA/ESA_231218				| 	 			|
-| Table CCC			| data/slurry.summ				| 				|
-| Figure OOO			| slurry/ESA01					| scipts-ESA/plot.R		|
-| Table SDDD			| data/slurry.summ				| 				|
+| Table 1			| data/w*** (weather data)			| 				|
+| Table 2			| data/slurry.summ				| 				|
+| Table 3			| data-ESA/ESA_231218				| 	 			|
+| Table 4			| output/dn22.csv   and data-NH3/231218-NEO-NH3   | data_NH3/summary.R  	|
+| Table S2			| data/slurry.summ				| 				|
+| Figure 1			| slurry/ESA01.pdf				| scipts-ESA/plot.R		|
+| Figure 2			| plots/surface_pH.pdf 				|scripts-pH-and-weather/plot.R 	|
+| Figure 3			| plots/flux02.pdf				| scripts-NH3/plot.R 		|
+| Figure S1			| plots/abmient_temp.pdf			| scripts-pH-and-weather/plot.R |
+| Figure S3			| plots/flux01.pdf				| scripts-NH3/plot.R		|
 	
 
 
