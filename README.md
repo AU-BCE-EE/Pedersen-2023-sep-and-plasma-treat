@@ -32,11 +32,9 @@ Data files with slurry properties (slurry.summ.txt), slurry surface pH after app
 ESA results after imaging analysis (ESAdata.csv). 
 Results of statistical analysis of ESA data (ESA_231218.xlsx). 
 
-## `data-NH3` 
-Measurement data, flux of measured NH3 from each individual dynamic flux chamber over time downloaded from the ALFAM2 database. 
 
-## 'data-stat-NH3'
-Results of statistical analysis (231218-NEO-NH3.xlsx).
+## 'data-NH3'
+Results of statistical analysis (231218-NEO-NH3.xlsx) and flux of measured NH3. 
 
 ## `data-VOC`
 Measurement data, flux of each individual measured VOC from each individual dynamic flux chamber over time. 
