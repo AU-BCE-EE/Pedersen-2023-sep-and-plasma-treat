@@ -10,7 +10,7 @@ ggplot(dn3, aes(elapsed.time, flux.mn.perc, color = treat, fill = treat)) +
   facet_wrap( ~ exp, ncol = 2, scales = 'free_y') +
   geom_ribbon(aes (ymax = flux.mn.perc + flux.sd.perc, ymin = flux.mn.perc - flux.sd.perc, group = treat), alpha = 0.3, color = NA) + 
   theme_bw() + 
-  ylab(expression(paste('Flux (% applied TAN  ', h^-1, ' ', m^-2, ')'))) + xlab('Time from application (h)') +
+  ylab(expression(paste('Flux (% applied TAN  ', h^-1,')'))) + xlab('Time from application (h)') +
   theme(legend.title = element_blank()) + 
   theme(legend.position = 'bottom') + 
   xlim(0, 160) + 
@@ -23,7 +23,7 @@ ggplot(dn3, aes(elapsed.time, flux.mn.perc, color = treat, fill = treat)) +
   facet_wrap( ~ exp, ncol = 2, scales = 'free_y') +
   geom_ribbon(aes (ymax = flux.mn.perc + flux.sd.perc, ymin = flux.mn.perc - flux.sd.perc, group = treat), alpha = 0.3, color = NA) + 
   theme_bw() + 
-  ylab(expression(paste('Flux (% applied TAN  ', h^-1, ' ', m^-2, ')'))) + xlab('Time from application (h)') +
+  ylab(expression(paste('Flux (% applied TAN  ', h^-1,')'))) + xlab('Time from application (h)') +
   theme(legend.title = element_blank()) + 
   theme(legend.position = 'bottom') + 
   xlim(0, 160) + 
