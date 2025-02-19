@@ -1,18 +1,15 @@
 # Pedersen-2023-sep-and-plasma-treat
-Data and analysis on wind tunnel measurements of ammonia (NH3) and volatile organic compound (VOC) emission from field-applied pig or digested slurry. The data and analysis is associated with research paper currently in progress. 
-
-# In progress
-This is a work in progress. 
-The paper has not yet been published. 
+Data and analysis on wind tunnel measurements of ammonia (NH3) and volatile organic compound (VOC) emission from field-applied pig or digested slurry.
 
 # Maintainer
-Johanna Pedersen 
+Johanna Pedersen. 
+
 Contact information here: <https://www.researchgate.net/profile/Johanna-Pedersen>.
 
 # Published paper
-The contents of this repo are presented in the following paper:
+The contents of this repo are associated with the following paper:
 
-...
+Pedersen, J., Labouriau, R., Feilberg, A. Effect of slurry separation and air-plasma treatment on NH3 and VOC emissions from field applied biogas digestate and pig slurry to grassland. Biosystems Engineering 247, 257-266. 2024. https://doi.org/10.1016/j.biosystemseng.2024.09.014
 
 # Overview
 This repo contains (nearly) all the data and data processing scripts needed to produce the results presented in the paper listed above. 
